@@ -1,0 +1,4 @@
+Machine learning is a subset of artificial intelligence focused on learning patterns from data.
+Supervised learning uses labeled examples to train models that predict outcomes.
+Common algorithms include linear regression, decision trees, and neural networks.
+Evaluation metrics such as accuracy and F1 score help compare model quality.

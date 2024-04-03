@@ -1,0 +1,4 @@
+FastAPI is a modern Python web framework for building APIs with type hints.
+It provides automatic OpenAPI documentation and data validation via Pydantic.
+TestClient from Starlette enables in-process HTTP tests without a running server.
+Health endpoints are useful for load balancers and deployment checks.

@@ -1,0 +1,4 @@
+Retrieval-augmented generation (RAG) combines search with text generation.
+A retriever fetches relevant document chunks for a user question.
+An index stores embeddings so similarity search can rank passages quickly.
+The reasoner composes an answer and attaches citations to source chunks.

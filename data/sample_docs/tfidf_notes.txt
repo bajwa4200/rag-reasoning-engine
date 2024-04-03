@@ -1,0 +1,3 @@
+TF-IDF weighting highlights terms that are frequent in a document but rare
+across the corpus. Cosine similarity between sparse TF-IDF vectors is a simple
+baseline for semantic-ish retrieval without neural embedding APIs.
